@@ -1,6 +1,6 @@
 atari-py==0.1.1
 Box2D==2.3.2
-certifi==2018.8.24
+certifi==2022.12.7
 chardet==3.0.4
 cycler==0.10.0
 future==0.16.0
